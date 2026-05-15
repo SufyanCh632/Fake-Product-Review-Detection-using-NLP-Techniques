@@ -1,0 +1,1001 @@
+review_id,product_name,review_text,rating,verified_purchase,review_date,fake_review
+1,Mechanical Keyboard,Best purchase ever,5,True,2024-06-15,0
+2,Wireless Earbuds,Happy with purchase,4,False,2026-02-07,1
+3,Mechanical Keyboard,Not as expected,2,True,2025-03-31,0
+4,Phone Charger,Waste of money,1,True,2026-01-21,0
+5,Bluetooth Speaker,Average product,2,False,2025-10-01,1
+6,Smart Watch,Works okay,3,False,2024-06-19,0
+7,Portable SSD,Works okay,3,False,2024-05-24,1
+8,Wireless Earbuds,Amazing quality,5,False,2024-06-12,0
+9,Laptop Stand,Excellent product,5,False,2026-05-07,0
+10,Laptop Stand,Happy with purchase,4,False,2026-03-10,0
+11,Fitness Band,Decent product,3,True,2024-10-12,0
+12,Mechanical Keyboard,Good quality,4,True,2025-10-07,0
+13,USB Cable,Poor packaging,2,False,2024-08-21,1
+14,Wireless Earbuds,Works okay,3,False,2025-03-15,0
+15,Laptop Stand,Terrible quality,1,True,2025-05-30,1
+16,Gaming Mouse,Waste of money,1,False,2025-09-01,1
+17,Mechanical Keyboard,Terrible quality,1,False,2025-08-18,1
+18,Gaming Mouse,Not as expected,2,False,2025-01-27,1
+19,Smart Watch,Stopped working quickly,1,True,2025-05-27,0
+20,Gaming Mouse,Highly recommend,5,False,2025-12-04,1
+21,Phone Charger,Average product,2,True,2026-01-18,0
+22,Bluetooth Speaker,Best purchase ever,5,False,2026-04-17,0
+23,Laptop Stand,Excellent product,5,True,2025-07-10,1
+24,Laptop Stand,Not as expected,2,True,2026-04-13,0
+25,Laptop Stand,Best purchase ever,5,False,2025-02-07,0
+26,Portable SSD,Terrible quality,1,False,2025-07-09,0
+27,USB Cable,Could be better,2,True,2025-01-07,1
+28,Wireless Earbuds,Decent product,3,False,2025-11-27,1
+29,Fitness Band,Excellent product,5,False,2025-08-19,0
+30,Gaming Mouse,Waste of money,1,True,2024-07-16,1
+31,Mechanical Keyboard,Best purchase ever,5,False,2024-07-02,1
+32,USB Cable,Very disappointed,1,True,2024-07-19,0
+33,USB Cable,Highly recommend,5,True,2025-11-12,1
+34,Smart Watch,Excellent product,5,True,2025-08-09,0
+35,Fitness Band,Excellent product,5,False,2024-08-01,0
+36,Gaming Mouse,Good quality,4,False,2024-11-17,1
+37,Wireless Earbuds,Good quality,4,False,2025-01-29,1
+38,USB Cable,Amazing quality,5,False,2025-06-24,0
+39,Phone Charger,Good quality,4,True,2026-01-27,1
+40,Wireless Earbuds,Waste of money,1,False,2025-04-19,1
+41,Mechanical Keyboard,Could be better,2,False,2025-05-14,1
+42,Smart Watch,Works okay,3,False,2025-02-20,0
+43,Portable SSD,Works okay,3,False,2026-01-26,1
+44,Phone Charger,Highly recommend,5,True,2024-08-16,1
+45,Mechanical Keyboard,Highly recommend,5,False,2024-12-28,0
+46,Laptop Stand,Excellent product,5,False,2025-01-28,0
+47,Laptop Stand,Stopped working quickly,1,False,2025-09-04,0
+48,Fitness Band,Average experience,3,True,2024-07-30,1
+49,Smart Watch,Stopped working quickly,1,False,2024-07-30,1
+50,Laptop Stand,Waste of money,1,True,2025-03-28,0
+51,Laptop Stand,Recommended,4,False,2026-03-13,1
+52,Wireless Earbuds,Not as expected,2,True,2026-05-02,1
+53,Fitness Band,Highly recommend,5,True,2025-06-07,1
+54,Mechanical Keyboard,Happy with purchase,4,True,2024-08-20,1
+55,Laptop Stand,Decent product,3,False,2024-06-18,1
+56,Bluetooth Speaker,Recommended,4,True,2025-02-21,1
+57,Wireless Earbuds,Average experience,3,False,2024-06-30,1
+58,Wireless Earbuds,Best purchase ever,5,False,2024-08-29,1
+59,Phone Charger,Works okay,3,True,2024-10-19,1
+60,Bluetooth Speaker,Poor packaging,2,True,2025-03-11,0
+61,Smart Watch,Recommended,4,True,2025-06-05,0
+62,Portable SSD,Very disappointed,1,True,2025-12-24,1
+63,Wireless Earbuds,Very disappointed,1,True,2025-01-25,1
+64,USB Cable,Very disappointed,1,True,2024-10-18,0
+65,USB Cable,Waste of money,1,True,2025-07-05,0
+66,Mechanical Keyboard,Not as expected,2,False,2024-12-20,0
+67,Laptop Stand,Works okay,3,False,2024-07-15,1
+68,Portable SSD,Not as expected,2,True,2025-10-20,1
+69,Portable SSD,Waste of money,1,True,2026-03-05,0
+70,Smart Watch,Amazing quality,5,True,2024-09-01,0
+71,Portable SSD,Highly recommend,5,True,2024-05-30,1
+72,Mechanical Keyboard,Recommended,4,False,2025-03-30,1
+73,Mechanical Keyboard,Average product,2,False,2024-06-01,1
+74,Mechanical Keyboard,Works okay,3,True,2025-07-14,0
+75,Smart Watch,Recommended,4,False,2024-09-28,1
+76,Phone Charger,Worth the price,4,False,2024-07-13,0
+77,Smart Watch,Could be better,2,True,2025-02-26,1
+78,Fitness Band,Happy with purchase,4,True,2025-04-17,0
+79,Gaming Mouse,Recommended,4,False,2024-08-16,0
+80,Laptop Stand,Decent product,3,True,2026-04-26,1
+81,Portable SSD,Waste of money,1,True,2024-11-25,0
+82,USB Cable,Amazing quality,5,True,2025-06-03,1
+83,Gaming Mouse,Stopped working quickly,1,True,2025-05-02,0
+84,Smart Watch,Very disappointed,1,True,2025-09-20,1
+85,Wireless Earbuds,Stopped working quickly,1,False,2025-08-04,0
+86,USB Cable,Very disappointed,1,False,2026-01-31,1
+87,Fitness Band,Highly recommend,5,True,2024-11-29,0
+88,Gaming Mouse,Worth the price,4,True,2024-11-02,0
+89,Mechanical Keyboard,Could be better,2,False,2025-11-26,1
+90,Phone Charger,Excellent product,5,True,2024-10-24,0
+91,Mechanical Keyboard,Decent product,3,True,2025-12-23,1
+92,Smart Watch,Terrible quality,1,False,2025-11-19,0
+93,Laptop Stand,Amazing quality,5,True,2025-09-19,1
+94,Fitness Band,Not as expected,2,True,2025-08-28,1
+95,Fitness Band,Works okay,3,False,2025-07-02,1
+96,Wireless Earbuds,Recommended,4,False,2024-11-02,1
+97,Gaming Mouse,Worth the price,4,False,2026-01-28,1
+98,Bluetooth Speaker,Average experience,3,False,2025-12-26,1
+99,Gaming Mouse,Very disappointed,1,False,2025-09-23,0
+100,Smart Watch,Stopped working quickly,1,False,2025-12-10,0
+101,Fitness Band,Terrible quality,1,True,2025-03-17,1
+102,Mechanical Keyboard,Could be better,2,True,2025-06-16,0
+103,Portable SSD,Happy with purchase,4,False,2024-12-14,0
+104,USB Cable,Very disappointed,1,False,2026-04-11,1
+105,Smart Watch,Best purchase ever,5,True,2025-10-31,0
+106,Laptop Stand,Satisfied overall,3,False,2026-03-26,0
+107,Portable SSD,Amazing quality,5,False,2024-09-28,1
+108,Gaming Mouse,Not as expected,2,False,2025-06-21,1
+109,USB Cable,Satisfied overall,3,True,2025-04-27,1
+110,Laptop Stand,Worth the price,4,False,2025-01-05,1
+111,Portable SSD,Stopped working quickly,1,False,2024-05-14,1
+112,Laptop Stand,Average product,2,True,2026-02-13,1
+113,Wireless Earbuds,Satisfied overall,3,True,2025-10-20,0
+114,USB Cable,Not as expected,2,True,2024-05-12,0
+115,USB Cable,Decent product,3,False,2025-04-22,1
+116,Fitness Band,Amazing quality,5,True,2024-06-18,0
+117,Smart Watch,Satisfied overall,3,True,2026-01-01,1
+118,Gaming Mouse,Very disappointed,1,False,2026-03-06,0
+119,Phone Charger,Excellent product,5,True,2025-02-21,1
+120,Mechanical Keyboard,Terrible quality,1,False,2025-07-03,1
+121,Portable SSD,Best purchase ever,5,False,2024-12-21,1
+122,Fitness Band,Highly recommend,5,False,2024-09-11,1
+123,Portable SSD,Good quality,4,True,2025-01-12,0
+124,Wireless Earbuds,Very disappointed,1,True,2025-11-24,0
+125,Wireless Earbuds,Highly recommend,5,False,2024-11-18,0
+126,Fitness Band,Recommended,4,True,2025-08-23,0
+127,Mechanical Keyboard,Poor packaging,2,False,2025-01-28,1
+128,Phone Charger,Satisfied overall,3,True,2025-03-08,0
+129,Bluetooth Speaker,Terrible quality,1,False,2024-10-22,0
+130,Wireless Earbuds,Not as expected,2,True,2024-08-13,0
+131,Mechanical Keyboard,Terrible quality,1,True,2024-11-17,1
+132,Phone Charger,Stopped working quickly,1,False,2025-01-06,1
+133,Laptop Stand,Highly recommend,5,True,2024-11-08,1
+134,Smart Watch,Highly recommend,5,False,2025-10-24,1
+135,Fitness Band,Amazing quality,5,False,2026-01-30,1
+136,Gaming Mouse,Stopped working quickly,1,False,2024-08-15,1
+137,Bluetooth Speaker,Amazing quality,5,True,2026-03-08,0
+138,Phone Charger,Average product,2,True,2026-04-08,0
+139,Phone Charger,Poor packaging,2,True,2024-12-07,0
+140,Gaming Mouse,Satisfied overall,3,False,2025-09-15,1
+141,Wireless Earbuds,Waste of money,1,True,2025-09-28,1
+142,Smart Watch,Very disappointed,1,True,2025-02-22,0
+143,Wireless Earbuds,Satisfied overall,3,True,2025-08-12,0
+144,USB Cable,Worth the price,4,False,2025-01-03,1
+145,USB Cable,Average experience,3,True,2024-10-27,0
+146,Fitness Band,Worth the price,4,True,2024-07-11,1
+147,Gaming Mouse,Worth the price,4,True,2025-11-03,0
+148,USB Cable,Best purchase ever,5,True,2025-05-16,1
+149,Laptop Stand,Could be better,2,True,2024-09-19,1
+150,Wireless Earbuds,Average product,2,True,2025-04-24,0
+151,Portable SSD,Poor packaging,2,True,2025-12-25,0
+152,Laptop Stand,Amazing quality,5,True,2025-06-10,1
+153,Phone Charger,Worth the price,4,False,2025-02-02,0
+154,Wireless Earbuds,Works okay,3,True,2026-01-10,0
+155,USB Cable,Decent product,3,False,2024-06-17,1
+156,Bluetooth Speaker,Happy with purchase,4,False,2024-12-11,0
+157,Phone Charger,Works okay,3,True,2024-11-18,1
+158,Wireless Earbuds,Terrible quality,1,False,2025-01-19,1
+159,Laptop Stand,Worth the price,4,True,2024-09-03,0
+160,Laptop Stand,Stopped working quickly,1,False,2024-10-02,1
+161,Gaming Mouse,Recommended,4,False,2026-04-30,0
+162,Bluetooth Speaker,Average product,2,False,2025-12-07,0
+163,Mechanical Keyboard,Best purchase ever,5,True,2024-08-15,0
+164,Bluetooth Speaker,Waste of money,1,False,2026-04-17,0
+165,Gaming Mouse,Works okay,3,False,2025-11-05,0
+166,Smart Watch,Works okay,3,False,2026-04-18,1
+167,Mechanical Keyboard,Works okay,3,True,2025-07-04,0
+168,Fitness Band,Very disappointed,1,True,2025-04-15,0
+169,USB Cable,Happy with purchase,4,True,2024-09-06,0
+170,Fitness Band,Happy with purchase,4,False,2025-08-30,0
+171,Wireless Earbuds,Amazing quality,5,True,2025-04-02,0
+172,USB Cable,Average experience,3,False,2024-11-10,1
+173,Fitness Band,Poor packaging,2,True,2024-08-05,1
+174,Portable SSD,Poor packaging,2,True,2025-10-17,1
+175,Wireless Earbuds,Good quality,4,True,2024-09-05,0
+176,Bluetooth Speaker,Waste of money,1,False,2024-10-14,1
+177,Laptop Stand,Could be better,2,True,2025-06-06,0
+178,Bluetooth Speaker,Terrible quality,1,True,2024-11-26,1
+179,Smart Watch,Works okay,3,False,2025-01-30,0
+180,Laptop Stand,Average experience,3,False,2026-02-10,1
+181,Fitness Band,Not as expected,2,False,2025-10-09,1
+182,Portable SSD,Terrible quality,1,True,2024-10-16,0
+183,Fitness Band,Poor packaging,2,False,2024-06-03,0
+184,Smart Watch,Stopped working quickly,1,True,2026-03-30,1
+185,Gaming Mouse,Amazing quality,5,False,2025-04-15,0
+186,Mechanical Keyboard,Happy with purchase,4,True,2025-10-26,0
+187,Phone Charger,Best purchase ever,5,False,2024-07-04,1
+188,Gaming Mouse,Could be better,2,False,2025-03-23,0
+189,Fitness Band,Average experience,3,False,2024-08-27,0
+190,Mechanical Keyboard,Stopped working quickly,1,False,2025-06-01,1
+191,Laptop Stand,Average product,2,True,2024-07-19,0
+192,Bluetooth Speaker,Average product,2,False,2024-07-11,0
+193,Phone Charger,Good quality,4,False,2024-07-24,0
+194,Wireless Earbuds,Highly recommend,5,True,2024-05-28,1
+195,Wireless Earbuds,Excellent product,5,False,2025-08-06,0
+196,Wireless Earbuds,Average experience,3,True,2024-09-25,1
+197,Laptop Stand,Highly recommend,5,False,2025-12-29,1
+198,Smart Watch,Terrible quality,1,True,2025-11-04,1
+199,Wireless Earbuds,Stopped working quickly,1,True,2024-12-09,1
+200,USB Cable,Satisfied overall,3,True,2026-04-05,0
+201,Portable SSD,Satisfied overall,3,False,2025-11-21,0
+202,Wireless Earbuds,Decent product,3,False,2024-09-12,0
+203,Portable SSD,Average product,2,True,2025-08-06,1
+204,Phone Charger,Best purchase ever,5,False,2025-04-12,0
+205,USB Cable,Decent product,3,True,2024-05-11,0
+206,Wireless Earbuds,Terrible quality,1,False,2025-10-21,0
+207,Smart Watch,Recommended,4,True,2025-12-17,1
+208,Mechanical Keyboard,Very disappointed,1,False,2025-02-26,0
+209,Smart Watch,Worth the price,4,False,2024-07-12,1
+210,Wireless Earbuds,Good quality,4,True,2025-05-06,1
+211,Laptop Stand,Average experience,3,True,2025-07-02,0
+212,USB Cable,Average product,2,True,2024-06-23,0
+213,Bluetooth Speaker,Satisfied overall,3,True,2025-11-03,0
+214,Bluetooth Speaker,Very disappointed,1,False,2025-05-16,0
+215,Smart Watch,Terrible quality,1,True,2025-02-11,0
+216,Fitness Band,Very disappointed,1,False,2025-10-08,0
+217,USB Cable,Excellent product,5,True,2025-02-27,1
+218,Laptop Stand,Very disappointed,1,False,2025-07-09,0
+219,Mechanical Keyboard,Works okay,3,True,2025-07-20,0
+220,Bluetooth Speaker,Not as expected,2,True,2026-01-22,0
+221,Wireless Earbuds,Not as expected,2,False,2025-02-26,1
+222,Mechanical Keyboard,Works okay,3,True,2025-07-14,0
+223,Mechanical Keyboard,Satisfied overall,3,True,2025-03-16,1
+224,Portable SSD,Happy with purchase,4,True,2025-01-29,0
+225,Fitness Band,Decent product,3,False,2025-09-06,0
+226,Phone Charger,Recommended,4,True,2025-04-02,1
+227,Portable SSD,Best purchase ever,5,False,2025-02-17,1
+228,Phone Charger,Excellent product,5,True,2026-01-29,1
+229,Wireless Earbuds,Average experience,3,True,2026-02-12,0
+230,USB Cable,Average product,2,True,2025-04-11,1
+231,Phone Charger,Satisfied overall,3,True,2024-09-27,0
+232,Fitness Band,Satisfied overall,3,True,2024-05-29,1
+233,Portable SSD,Could be better,2,True,2024-05-23,0
+234,Smart Watch,Stopped working quickly,1,True,2025-02-20,1
+235,USB Cable,Poor packaging,2,True,2024-09-02,1
+236,Bluetooth Speaker,Stopped working quickly,1,True,2024-12-15,1
+237,Gaming Mouse,Poor packaging,2,True,2025-01-17,0
+238,Wireless Earbuds,Satisfied overall,3,False,2025-07-12,0
+239,Laptop Stand,Average experience,3,False,2024-07-21,0
+240,Laptop Stand,Waste of money,1,False,2025-04-14,1
+241,Phone Charger,Excellent product,5,False,2024-07-05,1
+242,Gaming Mouse,Waste of money,1,True,2026-04-27,1
+243,Fitness Band,Very disappointed,1,True,2024-11-24,0
+244,Wireless Earbuds,Could be better,2,False,2024-12-21,0
+245,Laptop Stand,Decent product,3,False,2025-01-04,0
+246,USB Cable,Amazing quality,5,False,2026-02-15,1
+247,Smart Watch,Satisfied overall,3,False,2024-05-31,1
+248,Smart Watch,Very disappointed,1,False,2025-10-25,1
+249,Laptop Stand,Satisfied overall,3,False,2025-07-11,0
+250,Portable SSD,Terrible quality,1,True,2026-04-14,0
+251,Wireless Earbuds,Highly recommend,5,False,2025-03-24,1
+252,Smart Watch,Satisfied overall,3,True,2026-04-06,0
+253,Bluetooth Speaker,Average product,2,True,2025-01-23,0
+254,Phone Charger,Happy with purchase,4,False,2024-10-24,0
+255,Wireless Earbuds,Not as expected,2,True,2025-09-08,1
+256,Laptop Stand,Amazing quality,5,True,2024-12-04,1
+257,Wireless Earbuds,Poor packaging,2,False,2025-05-03,0
+258,Bluetooth Speaker,Best purchase ever,5,False,2025-07-12,1
+259,Portable SSD,Average experience,3,True,2026-04-15,0
+260,USB Cable,Excellent product,5,False,2025-09-21,1
+261,USB Cable,Average product,2,False,2024-08-14,0
+262,Phone Charger,Could be better,2,False,2025-05-02,0
+263,Gaming Mouse,Very disappointed,1,False,2024-09-17,0
+264,Smart Watch,Highly recommend,5,True,2024-09-04,1
+265,Bluetooth Speaker,Best purchase ever,5,True,2026-01-05,1
+266,Phone Charger,Recommended,4,False,2024-10-01,1
+267,Bluetooth Speaker,Happy with purchase,4,False,2024-07-26,1
+268,Portable SSD,Very disappointed,1,True,2025-06-11,0
+269,Gaming Mouse,Excellent product,5,True,2025-05-10,1
+270,Phone Charger,Stopped working quickly,1,True,2024-10-16,1
+271,Gaming Mouse,Good quality,4,True,2025-05-11,1
+272,Smart Watch,Best purchase ever,5,False,2025-11-29,1
+273,Gaming Mouse,Highly recommend,5,True,2024-06-28,0
+274,Gaming Mouse,Not as expected,2,True,2025-10-08,0
+275,Laptop Stand,Decent product,3,True,2025-08-10,1
+276,Laptop Stand,Excellent product,5,False,2025-09-15,1
+277,Smart Watch,Highly recommend,5,True,2024-11-19,1
+278,Wireless Earbuds,Not as expected,2,False,2026-02-20,1
+279,Wireless Earbuds,Very disappointed,1,True,2024-07-16,1
+280,USB Cable,Happy with purchase,4,False,2025-04-10,1
+281,Phone Charger,Excellent product,5,True,2025-10-10,1
+282,Bluetooth Speaker,Decent product,3,False,2024-08-07,0
+283,Mechanical Keyboard,Average experience,3,True,2026-03-25,1
+284,Wireless Earbuds,Best purchase ever,5,False,2026-02-06,1
+285,Laptop Stand,Good quality,4,False,2025-05-08,1
+286,Laptop Stand,Not as expected,2,False,2024-11-05,1
+287,Gaming Mouse,Highly recommend,5,False,2026-04-21,1
+288,Gaming Mouse,Highly recommend,5,True,2026-03-25,0
+289,Smart Watch,Recommended,4,True,2025-02-23,0
+290,Laptop Stand,Best purchase ever,5,False,2025-05-05,1
+291,Gaming Mouse,Good quality,4,True,2025-10-08,0
+292,Fitness Band,Very disappointed,1,True,2024-06-14,0
+293,Gaming Mouse,Highly recommend,5,True,2025-06-05,0
+294,Phone Charger,Average product,2,False,2025-11-01,0
+295,Mechanical Keyboard,Highly recommend,5,False,2025-10-13,0
+296,Fitness Band,Very disappointed,1,False,2026-01-17,0
+297,Phone Charger,Recommended,4,False,2026-03-11,0
+298,Wireless Earbuds,Terrible quality,1,True,2025-06-17,0
+299,Portable SSD,Average experience,3,False,2024-11-03,1
+300,Wireless Earbuds,Not as expected,2,True,2025-01-21,1
+301,Portable SSD,Good quality,4,False,2024-07-10,0
+302,Fitness Band,Not as expected,2,False,2025-01-29,1
+303,Phone Charger,Excellent product,5,True,2024-11-30,0
+304,Fitness Band,Satisfied overall,3,False,2025-02-09,1
+305,USB Cable,Terrible quality,1,False,2025-08-17,0
+306,Mechanical Keyboard,Good quality,4,True,2025-06-08,0
+307,Smart Watch,Stopped working quickly,1,False,2025-12-18,0
+308,Portable SSD,Excellent product,5,True,2025-01-15,0
+309,Portable SSD,Poor packaging,2,False,2025-03-09,1
+310,Fitness Band,Happy with purchase,4,True,2025-03-12,1
+311,USB Cable,Happy with purchase,4,True,2026-04-24,1
+312,Mechanical Keyboard,Happy with purchase,4,False,2024-10-15,0
+313,Wireless Earbuds,Recommended,4,False,2025-01-29,1
+314,Portable SSD,Highly recommend,5,True,2025-10-04,1
+315,Mechanical Keyboard,Not as expected,2,False,2024-10-07,0
+316,USB Cable,Highly recommend,5,False,2025-07-19,1
+317,Fitness Band,Recommended,4,True,2024-10-19,0
+318,Gaming Mouse,Best purchase ever,5,False,2024-09-17,1
+319,USB Cable,Poor packaging,2,False,2024-11-18,1
+320,Wireless Earbuds,Average experience,3,False,2024-12-23,0
+321,Bluetooth Speaker,Terrible quality,1,True,2025-06-21,0
+322,Portable SSD,Stopped working quickly,1,False,2024-12-28,1
+323,Portable SSD,Amazing quality,5,False,2025-05-17,0
+324,Gaming Mouse,Works okay,3,False,2025-06-17,1
+325,Gaming Mouse,Happy with purchase,4,False,2024-07-01,0
+326,Wireless Earbuds,Could be better,2,True,2026-03-29,0
+327,Laptop Stand,Excellent product,5,False,2025-10-11,0
+328,Portable SSD,Amazing quality,5,True,2024-07-15,1
+329,Gaming Mouse,Excellent product,5,True,2025-03-03,0
+330,Mechanical Keyboard,Highly recommend,5,False,2025-06-02,1
+331,Smart Watch,Worth the price,4,False,2025-06-18,0
+332,Fitness Band,Could be better,2,False,2024-07-21,1
+333,USB Cable,Decent product,3,True,2025-05-21,1
+334,Bluetooth Speaker,Highly recommend,5,True,2024-12-22,1
+335,Smart Watch,Amazing quality,5,False,2024-08-12,0
+336,USB Cable,Good quality,4,True,2026-04-19,1
+337,Mechanical Keyboard,Amazing quality,5,True,2024-09-04,1
+338,Gaming Mouse,Terrible quality,1,False,2026-01-21,0
+339,Portable SSD,Average product,2,False,2025-05-08,0
+340,Portable SSD,Waste of money,1,False,2024-07-23,1
+341,USB Cable,Average product,2,False,2025-09-23,1
+342,Laptop Stand,Could be better,2,True,2024-12-31,1
+343,Gaming Mouse,Good quality,4,True,2024-09-29,1
+344,Laptop Stand,Happy with purchase,4,False,2024-06-29,0
+345,Smart Watch,Terrible quality,1,False,2024-06-24,0
+346,Portable SSD,Recommended,4,True,2026-01-02,0
+347,Wireless Earbuds,Works okay,3,True,2025-07-13,1
+348,Gaming Mouse,Best purchase ever,5,False,2025-04-30,0
+349,Wireless Earbuds,Average experience,3,True,2024-12-31,0
+350,Wireless Earbuds,Recommended,4,True,2026-02-27,1
+351,Portable SSD,Recommended,4,True,2025-10-11,1
+352,USB Cable,Average product,2,False,2025-02-16,1
+353,Fitness Band,Best purchase ever,5,False,2025-06-04,0
+354,Gaming Mouse,Excellent product,5,True,2026-04-11,1
+355,Gaming Mouse,Excellent product,5,True,2024-06-24,0
+356,Smart Watch,Amazing quality,5,True,2026-02-08,0
+357,Mechanical Keyboard,Poor packaging,2,False,2025-11-02,0
+358,Bluetooth Speaker,Average product,2,False,2026-03-10,0
+359,USB Cable,Average product,2,True,2025-08-06,1
+360,Laptop Stand,Good quality,4,True,2026-04-08,1
+361,Mechanical Keyboard,Good quality,4,False,2026-05-08,1
+362,Bluetooth Speaker,Average product,2,False,2024-10-20,0
+363,Portable SSD,Average product,2,True,2025-07-02,0
+364,Phone Charger,Stopped working quickly,1,True,2024-05-10,0
+365,Gaming Mouse,Could be better,2,False,2025-05-22,0
+366,Phone Charger,Works okay,3,True,2025-01-30,0
+367,Smart Watch,Good quality,4,False,2026-03-25,1
+368,Gaming Mouse,Worth the price,4,False,2026-04-06,1
+369,Bluetooth Speaker,Decent product,3,False,2025-08-12,1
+370,Fitness Band,Excellent product,5,True,2024-12-24,1
+371,Laptop Stand,Not as expected,2,True,2025-11-14,1
+372,Mechanical Keyboard,Satisfied overall,3,False,2026-03-31,1
+373,Bluetooth Speaker,Happy with purchase,4,False,2025-05-11,1
+374,Phone Charger,Amazing quality,5,True,2024-07-04,1
+375,Wireless Earbuds,Stopped working quickly,1,False,2026-04-06,0
+376,Gaming Mouse,Amazing quality,5,True,2025-08-14,1
+377,Bluetooth Speaker,Decent product,3,False,2025-03-07,0
+378,USB Cable,Happy with purchase,4,True,2025-09-12,0
+379,USB Cable,Highly recommend,5,True,2024-11-09,1
+380,Portable SSD,Good quality,4,False,2025-07-28,1
+381,Mechanical Keyboard,Excellent product,5,True,2025-11-30,1
+382,Wireless Earbuds,Happy with purchase,4,False,2025-12-06,1
+383,Gaming Mouse,Excellent product,5,False,2025-06-09,1
+384,Laptop Stand,Terrible quality,1,True,2025-09-19,0
+385,Gaming Mouse,Very disappointed,1,True,2025-09-10,0
+386,Gaming Mouse,Terrible quality,1,True,2024-06-16,1
+387,Gaming Mouse,Stopped working quickly,1,True,2025-09-13,1
+388,Fitness Band,Stopped working quickly,1,False,2024-06-07,0
+389,Bluetooth Speaker,Best purchase ever,5,False,2025-01-25,0
+390,Bluetooth Speaker,Worth the price,4,True,2024-12-28,1
+391,Smart Watch,Terrible quality,1,True,2024-11-05,0
+392,Mechanical Keyboard,Excellent product,5,True,2025-11-20,0
+393,Mechanical Keyboard,Worth the price,4,True,2025-03-30,0
+394,Phone Charger,Satisfied overall,3,False,2025-05-12,1
+395,Bluetooth Speaker,Average product,2,True,2025-07-02,0
+396,Laptop Stand,Decent product,3,True,2024-10-08,0
+397,Smart Watch,Good quality,4,False,2025-06-04,1
+398,Fitness Band,Highly recommend,5,True,2024-09-01,0
+399,Fitness Band,Poor packaging,2,True,2026-03-21,0
+400,Laptop Stand,Very disappointed,1,False,2025-11-12,1
+401,Laptop Stand,Poor packaging,2,False,2026-03-22,0
+402,Laptop Stand,Stopped working quickly,1,True,2025-08-15,0
+403,Portable SSD,Not as expected,2,False,2025-06-18,0
+404,Smart Watch,Waste of money,1,False,2026-01-28,0
+405,Bluetooth Speaker,Happy with purchase,4,False,2024-07-03,1
+406,Smart Watch,Average experience,3,False,2025-06-21,0
+407,Portable SSD,Works okay,3,False,2025-10-09,0
+408,USB Cable,Decent product,3,False,2025-06-13,0
+409,Wireless Earbuds,Poor packaging,2,False,2025-11-05,1
+410,Smart Watch,Could be better,2,True,2025-06-12,0
+411,Wireless Earbuds,Highly recommend,5,True,2025-02-20,1
+412,USB Cable,Terrible quality,1,False,2025-11-20,0
+413,Smart Watch,Average product,2,False,2026-05-03,1
+414,USB Cable,Stopped working quickly,1,True,2025-10-08,0
+415,Wireless Earbuds,Stopped working quickly,1,False,2026-04-11,0
+416,Mechanical Keyboard,Average experience,3,False,2026-03-14,0
+417,Smart Watch,Very disappointed,1,True,2024-11-06,1
+418,Phone Charger,Worth the price,4,True,2025-02-27,1
+419,Phone Charger,Best purchase ever,5,False,2024-12-02,0
+420,Mechanical Keyboard,Average experience,3,True,2024-09-12,1
+421,Laptop Stand,Could be better,2,True,2025-07-07,1
+422,Bluetooth Speaker,Works okay,3,False,2025-04-02,1
+423,USB Cable,Good quality,4,True,2024-10-13,0
+424,Wireless Earbuds,Stopped working quickly,1,True,2024-11-06,0
+425,Bluetooth Speaker,Works okay,3,False,2025-09-06,0
+426,Gaming Mouse,Best purchase ever,5,True,2026-02-25,0
+427,Portable SSD,Satisfied overall,3,True,2024-06-11,1
+428,Bluetooth Speaker,Recommended,4,False,2025-10-28,0
+429,Gaming Mouse,Poor packaging,2,False,2025-08-18,1
+430,Portable SSD,Satisfied overall,3,False,2026-01-06,0
+431,Wireless Earbuds,Recommended,4,True,2025-12-06,0
+432,Bluetooth Speaker,Satisfied overall,3,False,2024-12-09,1
+433,Wireless Earbuds,Waste of money,1,False,2024-05-18,0
+434,Bluetooth Speaker,Not as expected,2,True,2024-09-28,0
+435,Fitness Band,Terrible quality,1,False,2026-02-27,1
+436,Fitness Band,Waste of money,1,True,2025-09-27,0
+437,Wireless Earbuds,Very disappointed,1,False,2024-09-01,0
+438,Portable SSD,Not as expected,2,False,2024-10-30,0
+439,Bluetooth Speaker,Average experience,3,False,2024-08-31,1
+440,Portable SSD,Average experience,3,False,2026-03-26,1
+441,Phone Charger,Could be better,2,False,2025-01-11,1
+442,Portable SSD,Satisfied overall,3,False,2025-07-31,1
+443,Wireless Earbuds,Poor packaging,2,False,2026-04-12,1
+444,Gaming Mouse,Could be better,2,True,2026-04-16,0
+445,Wireless Earbuds,Happy with purchase,4,True,2024-09-24,1
+446,Fitness Band,Waste of money,1,False,2024-06-17,1
+447,Phone Charger,Happy with purchase,4,False,2025-05-22,0
+448,Phone Charger,Average product,2,False,2025-08-04,0
+449,Bluetooth Speaker,Happy with purchase,4,True,2024-11-02,0
+450,USB Cable,Satisfied overall,3,False,2025-01-09,0
+451,Bluetooth Speaker,Works okay,3,True,2026-01-23,1
+452,Fitness Band,Average product,2,True,2026-01-24,1
+453,Fitness Band,Amazing quality,5,False,2026-02-26,0
+454,Gaming Mouse,Terrible quality,1,False,2025-04-26,1
+455,USB Cable,Average product,2,False,2025-06-13,1
+456,Wireless Earbuds,Satisfied overall,3,True,2025-10-01,1
+457,Smart Watch,Worth the price,4,True,2024-06-10,1
+458,Bluetooth Speaker,Recommended,4,True,2025-03-07,0
+459,Phone Charger,Recommended,4,True,2024-09-07,0
+460,Phone Charger,Average experience,3,True,2025-04-26,0
+461,Portable SSD,Highly recommend,5,False,2025-01-03,1
+462,Smart Watch,Not as expected,2,True,2025-09-02,0
+463,Smart Watch,Stopped working quickly,1,True,2025-05-18,0
+464,Smart Watch,Poor packaging,2,False,2024-10-05,1
+465,Fitness Band,Could be better,2,True,2026-01-07,1
+466,Laptop Stand,Satisfied overall,3,True,2026-03-11,1
+467,Wireless Earbuds,Works okay,3,False,2024-11-17,1
+468,USB Cable,Decent product,3,True,2026-01-17,0
+469,Bluetooth Speaker,Satisfied overall,3,False,2024-11-05,1
+470,Wireless Earbuds,Could be better,2,True,2026-05-02,1
+471,Wireless Earbuds,Satisfied overall,3,False,2025-01-19,1
+472,Fitness Band,Stopped working quickly,1,True,2024-08-15,0
+473,Bluetooth Speaker,Excellent product,5,True,2024-11-15,0
+474,Mechanical Keyboard,Waste of money,1,False,2024-12-14,0
+475,USB Cable,Decent product,3,False,2025-05-06,0
+476,Portable SSD,Happy with purchase,4,True,2025-12-30,0
+477,Gaming Mouse,Recommended,4,True,2026-04-06,0
+478,USB Cable,Excellent product,5,False,2024-12-19,1
+479,Wireless Earbuds,Satisfied overall,3,False,2024-08-14,0
+480,Smart Watch,Very disappointed,1,True,2024-08-26,1
+481,Phone Charger,Recommended,4,True,2026-01-20,1
+482,Portable SSD,Good quality,4,False,2024-09-02,1
+483,Mechanical Keyboard,Waste of money,1,False,2024-09-12,1
+484,Bluetooth Speaker,Not as expected,2,False,2024-08-16,0
+485,USB Cable,Average product,2,False,2025-03-05,0
+486,Bluetooth Speaker,Works okay,3,False,2025-05-21,0
+487,Mechanical Keyboard,Decent product,3,True,2025-06-22,1
+488,Laptop Stand,Best purchase ever,5,True,2024-07-02,1
+489,Fitness Band,Average experience,3,False,2025-06-25,1
+490,Fitness Band,Decent product,3,False,2024-12-01,1
+491,Portable SSD,Good quality,4,True,2026-02-11,1
+492,Phone Charger,Could be better,2,True,2026-03-02,0
+493,Fitness Band,Works okay,3,False,2025-01-15,0
+494,Fitness Band,Excellent product,5,False,2025-06-03,0
+495,Phone Charger,Average experience,3,False,2024-08-20,0
+496,Gaming Mouse,Stopped working quickly,1,True,2024-07-01,0
+497,Mechanical Keyboard,Could be better,2,False,2024-05-30,1
+498,Phone Charger,Best purchase ever,5,True,2025-04-13,1
+499,Portable SSD,Excellent product,5,False,2025-07-15,1
+500,Fitness Band,Decent product,3,True,2025-06-18,1
+501,Smart Watch,Recommended,4,False,2025-03-16,1
+502,Fitness Band,Not as expected,2,True,2025-12-06,0
+503,Gaming Mouse,Stopped working quickly,1,False,2025-04-30,0
+504,Mechanical Keyboard,Recommended,4,False,2025-08-16,0
+505,USB Cable,Good quality,4,True,2025-03-25,1
+506,Fitness Band,Recommended,4,True,2025-10-10,0
+507,Smart Watch,Good quality,4,True,2024-09-20,0
+508,Wireless Earbuds,Best purchase ever,5,False,2025-04-02,1
+509,USB Cable,Could be better,2,True,2024-11-14,1
+510,Phone Charger,Recommended,4,False,2025-06-22,1
+511,Wireless Earbuds,Stopped working quickly,1,True,2025-01-10,1
+512,Wireless Earbuds,Could be better,2,True,2026-04-14,0
+513,Laptop Stand,Worth the price,4,False,2025-11-27,0
+514,Phone Charger,Works okay,3,True,2026-02-14,1
+515,Wireless Earbuds,Average product,2,False,2024-11-27,1
+516,Gaming Mouse,Amazing quality,5,True,2025-01-02,0
+517,USB Cable,Satisfied overall,3,True,2026-02-26,0
+518,Wireless Earbuds,Average product,2,False,2024-09-29,1
+519,Fitness Band,Poor packaging,2,True,2024-12-01,1
+520,Fitness Band,Best purchase ever,5,True,2024-11-11,1
+521,Smart Watch,Stopped working quickly,1,False,2025-12-28,0
+522,Portable SSD,Terrible quality,1,True,2026-01-28,0
+523,Laptop Stand,Satisfied overall,3,False,2025-11-18,0
+524,Phone Charger,Good quality,4,False,2024-06-25,1
+525,Gaming Mouse,Works okay,3,True,2024-10-28,0
+526,Fitness Band,Decent product,3,False,2024-06-08,0
+527,Mechanical Keyboard,Excellent product,5,True,2024-10-03,0
+528,Phone Charger,Good quality,4,False,2025-01-29,1
+529,Bluetooth Speaker,Happy with purchase,4,False,2024-12-20,1
+530,Bluetooth Speaker,Happy with purchase,4,True,2024-10-30,1
+531,USB Cable,Stopped working quickly,1,False,2025-03-17,0
+532,Mechanical Keyboard,Average product,2,False,2025-08-20,1
+533,Laptop Stand,Amazing quality,5,True,2025-07-01,0
+534,Mechanical Keyboard,Decent product,3,True,2025-09-14,0
+535,Laptop Stand,Average product,2,False,2024-12-03,1
+536,Laptop Stand,Stopped working quickly,1,True,2024-09-18,0
+537,Gaming Mouse,Could be better,2,False,2024-11-30,1
+538,Laptop Stand,Amazing quality,5,True,2024-09-12,0
+539,USB Cable,Satisfied overall,3,False,2025-06-08,1
+540,Portable SSD,Excellent product,5,True,2024-07-09,0
+541,USB Cable,Could be better,2,True,2024-12-18,0
+542,Phone Charger,Average experience,3,False,2025-01-24,1
+543,Laptop Stand,Average product,2,True,2024-07-27,1
+544,USB Cable,Good quality,4,True,2025-09-03,0
+545,Portable SSD,Very disappointed,1,True,2025-03-16,1
+546,Gaming Mouse,Waste of money,1,True,2024-12-21,0
+547,Mechanical Keyboard,Good quality,4,False,2025-07-18,0
+548,Gaming Mouse,Amazing quality,5,True,2025-08-24,1
+549,Laptop Stand,Stopped working quickly,1,False,2025-10-07,0
+550,Mechanical Keyboard,Could be better,2,False,2025-05-01,1
+551,USB Cable,Excellent product,5,True,2025-10-24,1
+552,Phone Charger,Waste of money,1,False,2026-01-04,1
+553,Laptop Stand,Waste of money,1,True,2026-01-16,1
+554,Portable SSD,Could be better,2,False,2025-11-18,1
+555,Portable SSD,Not as expected,2,True,2025-11-11,1
+556,USB Cable,Good quality,4,True,2025-04-28,0
+557,Smart Watch,Could be better,2,False,2025-01-18,0
+558,Laptop Stand,Best purchase ever,5,True,2025-05-04,1
+559,Mechanical Keyboard,Decent product,3,False,2025-07-25,1
+560,Mechanical Keyboard,Good quality,4,True,2026-04-27,1
+561,Portable SSD,Waste of money,1,True,2025-03-28,1
+562,Fitness Band,Very disappointed,1,False,2024-12-29,0
+563,Bluetooth Speaker,Not as expected,2,False,2025-03-31,0
+564,Laptop Stand,Excellent product,5,True,2025-12-25,1
+565,Fitness Band,Stopped working quickly,1,False,2025-06-30,1
+566,Gaming Mouse,Satisfied overall,3,True,2025-01-15,1
+567,Bluetooth Speaker,Satisfied overall,3,False,2024-11-08,1
+568,Portable SSD,Average experience,3,False,2025-03-06,1
+569,Bluetooth Speaker,Very disappointed,1,True,2024-10-18,0
+570,USB Cable,Very disappointed,1,False,2025-05-01,0
+571,Mechanical Keyboard,Excellent product,5,False,2025-03-14,1
+572,USB Cable,Worth the price,4,True,2026-04-27,1
+573,Smart Watch,Average experience,3,True,2024-10-28,1
+574,Laptop Stand,Amazing quality,5,True,2025-04-04,0
+575,Fitness Band,Stopped working quickly,1,True,2026-02-08,0
+576,USB Cable,Worth the price,4,True,2024-10-18,1
+577,Smart Watch,Satisfied overall,3,False,2026-01-03,0
+578,Laptop Stand,Amazing quality,5,False,2024-12-13,0
+579,Wireless Earbuds,Average product,2,False,2025-03-25,0
+580,Portable SSD,Worth the price,4,True,2025-11-06,1
+581,Laptop Stand,Best purchase ever,5,True,2026-01-23,1
+582,Phone Charger,Satisfied overall,3,True,2025-10-08,1
+583,Fitness Band,Amazing quality,5,False,2026-04-20,0
+584,Bluetooth Speaker,Excellent product,5,True,2026-03-07,1
+585,Fitness Band,Waste of money,1,False,2024-12-24,1
+586,Smart Watch,Works okay,3,True,2025-06-06,0
+587,Phone Charger,Stopped working quickly,1,True,2024-12-22,1
+588,Portable SSD,Best purchase ever,5,False,2024-07-30,0
+589,Wireless Earbuds,Waste of money,1,False,2024-08-23,1
+590,Fitness Band,Satisfied overall,3,True,2025-03-13,0
+591,Mechanical Keyboard,Very disappointed,1,False,2026-05-08,1
+592,Wireless Earbuds,Stopped working quickly,1,True,2024-09-11,0
+593,Laptop Stand,Happy with purchase,4,False,2024-12-11,0
+594,Bluetooth Speaker,Satisfied overall,3,False,2025-04-29,1
+595,Fitness Band,Highly recommend,5,True,2024-07-11,1
+596,Wireless Earbuds,Best purchase ever,5,False,2024-07-05,0
+597,USB Cable,Satisfied overall,3,False,2026-04-27,0
+598,Phone Charger,Best purchase ever,5,False,2026-01-21,0
+599,Bluetooth Speaker,Terrible quality,1,False,2025-08-03,1
+600,Fitness Band,Best purchase ever,5,False,2024-10-10,0
+601,Laptop Stand,Good quality,4,True,2026-04-29,0
+602,Bluetooth Speaker,Amazing quality,5,True,2025-02-23,0
+603,Bluetooth Speaker,Amazing quality,5,True,2024-12-20,1
+604,Wireless Earbuds,Satisfied overall,3,True,2025-10-23,1
+605,Gaming Mouse,Poor packaging,2,False,2026-01-12,0
+606,Gaming Mouse,Highly recommend,5,False,2024-05-21,1
+607,Laptop Stand,Very disappointed,1,True,2025-02-22,0
+608,Wireless Earbuds,Best purchase ever,5,True,2025-02-07,0
+609,Laptop Stand,Excellent product,5,True,2025-01-08,0
+610,Phone Charger,Poor packaging,2,True,2026-03-23,1
+611,Bluetooth Speaker,Very disappointed,1,False,2025-10-08,0
+612,Bluetooth Speaker,Not as expected,2,True,2025-08-22,1
+613,Portable SSD,Worth the price,4,False,2025-09-26,1
+614,Laptop Stand,Recommended,4,False,2025-10-07,1
+615,Smart Watch,Average product,2,False,2025-02-20,1
+616,Bluetooth Speaker,Average product,2,True,2026-03-31,1
+617,Bluetooth Speaker,Highly recommend,5,True,2024-11-28,0
+618,Gaming Mouse,Waste of money,1,True,2025-10-12,1
+619,Gaming Mouse,Average product,2,True,2024-06-20,0
+620,Fitness Band,Stopped working quickly,1,False,2025-04-29,1
+621,Bluetooth Speaker,Average product,2,False,2025-12-20,1
+622,Wireless Earbuds,Worth the price,4,False,2025-02-23,0
+623,Gaming Mouse,Works okay,3,True,2025-10-30,0
+624,Portable SSD,Excellent product,5,False,2024-07-19,0
+625,Fitness Band,Waste of money,1,False,2024-12-06,1
+626,USB Cable,Could be better,2,False,2025-11-03,1
+627,Phone Charger,Amazing quality,5,True,2026-05-01,0
+628,Gaming Mouse,Waste of money,1,False,2025-05-18,0
+629,Gaming Mouse,Stopped working quickly,1,False,2024-12-08,0
+630,Wireless Earbuds,Amazing quality,5,False,2024-06-05,1
+631,Laptop Stand,Amazing quality,5,False,2024-06-09,1
+632,Mechanical Keyboard,Very disappointed,1,True,2025-02-12,0
+633,Smart Watch,Works okay,3,False,2025-10-15,1
+634,Wireless Earbuds,Works okay,3,False,2025-07-23,0
+635,Fitness Band,Excellent product,5,False,2026-03-17,0
+636,Phone Charger,Terrible quality,1,False,2025-08-30,1
+637,Gaming Mouse,Excellent product,5,False,2025-08-03,0
+638,Laptop Stand,Satisfied overall,3,True,2024-07-13,0
+639,Wireless Earbuds,Average experience,3,False,2026-02-13,1
+640,USB Cable,Recommended,4,False,2026-04-19,0
+641,USB Cable,Average product,2,True,2024-09-24,0
+642,Smart Watch,Terrible quality,1,True,2025-07-21,0
+643,Smart Watch,Best purchase ever,5,True,2025-12-09,0
+644,Smart Watch,Very disappointed,1,False,2026-01-31,0
+645,Gaming Mouse,Excellent product,5,True,2025-12-09,1
+646,USB Cable,Very disappointed,1,True,2025-06-24,0
+647,Portable SSD,Poor packaging,2,False,2025-04-08,0
+648,Portable SSD,Average experience,3,True,2025-04-04,0
+649,Mechanical Keyboard,Terrible quality,1,False,2025-04-17,0
+650,Bluetooth Speaker,Stopped working quickly,1,False,2025-12-24,1
+651,Laptop Stand,Could be better,2,False,2025-01-12,0
+652,USB Cable,Poor packaging,2,False,2024-10-15,0
+653,Bluetooth Speaker,Average experience,3,False,2025-12-24,1
+654,Fitness Band,Poor packaging,2,True,2024-10-10,0
+655,Fitness Band,Worth the price,4,False,2024-09-09,1
+656,Fitness Band,Waste of money,1,False,2025-06-25,0
+657,USB Cable,Recommended,4,True,2026-05-08,1
+658,Laptop Stand,Stopped working quickly,1,False,2025-01-14,0
+659,Portable SSD,Poor packaging,2,False,2024-05-15,0
+660,Phone Charger,Excellent product,5,True,2024-07-25,1
+661,Fitness Band,Terrible quality,1,False,2024-05-25,1
+662,Portable SSD,Waste of money,1,True,2026-03-17,0
+663,Gaming Mouse,Terrible quality,1,False,2026-02-11,0
+664,USB Cable,Best purchase ever,5,False,2024-12-18,1
+665,USB Cable,Average product,2,True,2026-04-20,1
+666,Smart Watch,Average experience,3,False,2024-12-30,0
+667,Bluetooth Speaker,Waste of money,1,True,2025-08-26,0
+668,Smart Watch,Amazing quality,5,True,2025-04-25,0
+669,Mechanical Keyboard,Recommended,4,False,2025-04-10,1
+670,Mechanical Keyboard,Decent product,3,True,2025-05-14,0
+671,Smart Watch,Average product,2,True,2025-03-04,1
+672,Wireless Earbuds,Average product,2,True,2025-02-09,0
+673,Portable SSD,Worth the price,4,True,2025-08-15,0
+674,Phone Charger,Works okay,3,True,2024-11-09,0
+675,Gaming Mouse,Terrible quality,1,False,2024-11-24,1
+676,Bluetooth Speaker,Terrible quality,1,False,2024-12-01,0
+677,Mechanical Keyboard,Not as expected,2,False,2025-05-09,1
+678,Bluetooth Speaker,Stopped working quickly,1,True,2024-09-19,1
+679,Mechanical Keyboard,Decent product,3,True,2024-10-15,1
+680,Fitness Band,Stopped working quickly,1,True,2024-11-24,1
+681,Bluetooth Speaker,Works okay,3,False,2026-03-27,0
+682,Mechanical Keyboard,Waste of money,1,True,2025-05-17,1
+683,Fitness Band,Very disappointed,1,False,2025-05-04,1
+684,USB Cable,Terrible quality,1,False,2024-05-10,0
+685,Phone Charger,Works okay,3,False,2024-08-10,1
+686,Smart Watch,Waste of money,1,False,2025-12-16,0
+687,Fitness Band,Excellent product,5,True,2026-02-07,0
+688,Fitness Band,Waste of money,1,False,2025-06-11,1
+689,Mechanical Keyboard,Worth the price,4,False,2026-01-28,0
+690,Gaming Mouse,Works okay,3,True,2025-07-30,1
+691,Bluetooth Speaker,Highly recommend,5,False,2025-02-04,0
+692,Portable SSD,Decent product,3,False,2025-03-18,1
+693,Gaming Mouse,Best purchase ever,5,True,2025-12-25,1
+694,Gaming Mouse,Good quality,4,False,2026-03-16,0
+695,USB Cable,Amazing quality,5,True,2025-12-18,1
+696,Bluetooth Speaker,Worth the price,4,False,2025-03-28,1
+697,Gaming Mouse,Poor packaging,2,True,2025-03-27,1
+698,Phone Charger,Could be better,2,True,2025-01-13,0
+699,Smart Watch,Worth the price,4,False,2024-09-02,0
+700,Fitness Band,Decent product,3,False,2024-05-23,0
+701,USB Cable,Highly recommend,5,True,2025-11-22,1
+702,Mechanical Keyboard,Best purchase ever,5,True,2025-12-12,1
+703,Bluetooth Speaker,Amazing quality,5,False,2025-12-30,0
+704,Wireless Earbuds,Poor packaging,2,True,2024-10-16,0
+705,Phone Charger,Average experience,3,False,2026-02-21,0
+706,Bluetooth Speaker,Terrible quality,1,False,2024-11-03,1
+707,Fitness Band,Satisfied overall,3,True,2025-05-26,1
+708,Phone Charger,Average experience,3,True,2026-02-02,1
+709,Smart Watch,Works okay,3,False,2024-12-23,0
+710,Phone Charger,Poor packaging,2,True,2025-06-15,1
+711,Fitness Band,Waste of money,1,True,2026-02-27,1
+712,Mechanical Keyboard,Amazing quality,5,False,2024-06-14,0
+713,Fitness Band,Highly recommend,5,False,2025-12-16,0
+714,Gaming Mouse,Highly recommend,5,False,2026-04-26,0
+715,Wireless Earbuds,Poor packaging,2,True,2024-09-12,0
+716,Wireless Earbuds,Waste of money,1,False,2026-02-15,1
+717,USB Cable,Excellent product,5,True,2024-09-29,1
+718,Gaming Mouse,Average product,2,False,2025-06-06,0
+719,Fitness Band,Highly recommend,5,False,2025-11-26,1
+720,USB Cable,Stopped working quickly,1,False,2025-07-30,0
+721,Bluetooth Speaker,Satisfied overall,3,False,2025-08-09,0
+722,Smart Watch,Stopped working quickly,1,False,2024-12-11,1
+723,USB Cable,Excellent product,5,True,2024-10-12,1
+724,Fitness Band,Stopped working quickly,1,True,2024-05-30,1
+725,Smart Watch,Satisfied overall,3,False,2026-01-13,0
+726,Laptop Stand,Average experience,3,True,2024-11-21,0
+727,Laptop Stand,Poor packaging,2,False,2025-07-07,1
+728,Phone Charger,Best purchase ever,5,True,2026-01-22,0
+729,Phone Charger,Best purchase ever,5,True,2025-11-13,0
+730,USB Cable,Average product,2,False,2025-05-10,0
+731,Laptop Stand,Poor packaging,2,True,2026-04-08,1
+732,Gaming Mouse,Stopped working quickly,1,False,2024-11-08,1
+733,USB Cable,Happy with purchase,4,False,2024-06-15,1
+734,Bluetooth Speaker,Amazing quality,5,False,2025-01-31,0
+735,Smart Watch,Good quality,4,True,2025-03-06,0
+736,Smart Watch,Highly recommend,5,False,2025-04-17,1
+737,Fitness Band,Decent product,3,False,2025-12-20,0
+738,Mechanical Keyboard,Stopped working quickly,1,False,2024-12-09,0
+739,Gaming Mouse,Works okay,3,False,2025-08-15,1
+740,Wireless Earbuds,Could be better,2,True,2025-07-22,0
+741,Smart Watch,Highly recommend,5,False,2025-05-10,1
+742,Fitness Band,Average product,2,False,2025-02-23,1
+743,USB Cable,Average product,2,True,2025-02-13,1
+744,Bluetooth Speaker,Poor packaging,2,False,2025-04-11,1
+745,Mechanical Keyboard,Average product,2,False,2025-03-29,1
+746,Portable SSD,Highly recommend,5,True,2024-10-17,1
+747,Phone Charger,Satisfied overall,3,True,2025-02-07,0
+748,USB Cable,Decent product,3,True,2025-01-16,0
+749,Mechanical Keyboard,Waste of money,1,False,2025-03-19,0
+750,Wireless Earbuds,Waste of money,1,True,2024-07-03,0
+751,Portable SSD,Poor packaging,2,True,2025-09-06,0
+752,Wireless Earbuds,Average product,2,True,2026-02-22,1
+753,Wireless Earbuds,Good quality,4,False,2026-04-10,1
+754,Smart Watch,Not as expected,2,False,2025-11-11,0
+755,Mechanical Keyboard,Highly recommend,5,False,2024-12-22,1
+756,Bluetooth Speaker,Could be better,2,True,2026-02-07,0
+757,Laptop Stand,Decent product,3,False,2025-03-24,0
+758,Smart Watch,Amazing quality,5,False,2025-12-09,1
+759,Wireless Earbuds,Very disappointed,1,True,2025-09-03,1
+760,Wireless Earbuds,Happy with purchase,4,True,2026-01-06,1
+761,Wireless Earbuds,Highly recommend,5,False,2024-07-22,0
+762,Portable SSD,Stopped working quickly,1,True,2024-07-13,1
+763,Portable SSD,Amazing quality,5,True,2024-10-01,0
+764,Bluetooth Speaker,Terrible quality,1,False,2025-10-18,1
+765,Mechanical Keyboard,Worth the price,4,False,2024-05-30,1
+766,Laptop Stand,Terrible quality,1,False,2024-06-16,1
+767,Bluetooth Speaker,Good quality,4,False,2026-04-10,0
+768,USB Cable,Average product,2,True,2026-02-01,1
+769,Mechanical Keyboard,Average product,2,False,2024-10-31,0
+770,Mechanical Keyboard,Worth the price,4,False,2025-11-25,0
+771,USB Cable,Stopped working quickly,1,True,2025-08-15,1
+772,Bluetooth Speaker,Works okay,3,True,2025-12-10,1
+773,Gaming Mouse,Satisfied overall,3,False,2024-10-17,1
+774,Mechanical Keyboard,Recommended,4,False,2025-05-18,0
+775,Portable SSD,Highly recommend,5,False,2025-08-12,0
+776,Fitness Band,Excellent product,5,False,2024-12-20,1
+777,USB Cable,Happy with purchase,4,False,2024-08-05,0
+778,Phone Charger,Decent product,3,True,2025-06-17,1
+779,Bluetooth Speaker,Highly recommend,5,False,2025-03-26,1
+780,Gaming Mouse,Could be better,2,True,2024-10-31,1
+781,Phone Charger,Stopped working quickly,1,False,2025-08-11,1
+782,USB Cable,Works okay,3,True,2024-08-07,1
+783,Smart Watch,Good quality,4,False,2025-10-21,1
+784,Smart Watch,Very disappointed,1,True,2026-01-19,1
+785,Fitness Band,Waste of money,1,False,2026-03-07,0
+786,Laptop Stand,Happy with purchase,4,True,2025-01-26,0
+787,Wireless Earbuds,Could be better,2,False,2025-02-27,1
+788,Laptop Stand,Not as expected,2,False,2025-04-12,0
+789,Mechanical Keyboard,Works okay,3,True,2024-07-06,0
+790,Laptop Stand,Highly recommend,5,True,2024-06-30,1
+791,Portable SSD,Average product,2,True,2024-08-13,1
+792,Mechanical Keyboard,Best purchase ever,5,False,2024-08-08,1
+793,Portable SSD,Satisfied overall,3,True,2025-11-24,0
+794,Gaming Mouse,Best purchase ever,5,False,2025-06-15,0
+795,Bluetooth Speaker,Could be better,2,True,2025-01-25,0
+796,Laptop Stand,Very disappointed,1,False,2024-08-20,0
+797,USB Cable,Good quality,4,False,2025-03-14,0
+798,Portable SSD,Worth the price,4,True,2025-03-03,0
+799,USB Cable,Average experience,3,False,2026-05-02,1
+800,Mechanical Keyboard,Could be better,2,False,2025-01-03,1
+801,Portable SSD,Average experience,3,True,2025-03-12,1
+802,USB Cable,Good quality,4,True,2025-10-14,1
+803,Wireless Earbuds,Terrible quality,1,False,2024-11-28,1
+804,Portable SSD,Excellent product,5,True,2025-09-19,1
+805,Laptop Stand,Best purchase ever,5,False,2024-11-17,0
+806,Portable SSD,Excellent product,5,False,2025-05-12,0
+807,Portable SSD,Decent product,3,False,2025-07-26,0
+808,Laptop Stand,Stopped working quickly,1,False,2025-01-28,1
+809,Bluetooth Speaker,Happy with purchase,4,False,2026-01-07,0
+810,Smart Watch,Highly recommend,5,True,2024-07-04,1
+811,Gaming Mouse,Terrible quality,1,True,2024-10-22,0
+812,Smart Watch,Satisfied overall,3,False,2025-10-29,1
+813,Fitness Band,Not as expected,2,True,2026-01-23,1
+814,Bluetooth Speaker,Could be better,2,False,2024-12-07,0
+815,Bluetooth Speaker,Not as expected,2,True,2025-09-10,1
+816,Mechanical Keyboard,Highly recommend,5,False,2024-10-24,0
+817,Gaming Mouse,Poor packaging,2,True,2025-08-07,0
+818,Portable SSD,Terrible quality,1,False,2025-11-07,0
+819,Portable SSD,Average product,2,False,2025-12-27,0
+820,Mechanical Keyboard,Highly recommend,5,True,2025-07-15,0
+821,Fitness Band,Could be better,2,True,2024-09-09,1
+822,USB Cable,Stopped working quickly,1,True,2025-11-05,0
+823,Smart Watch,Average product,2,False,2026-04-28,1
+824,Mechanical Keyboard,Poor packaging,2,True,2025-02-16,1
+825,Laptop Stand,Average experience,3,True,2025-07-20,0
+826,Portable SSD,Not as expected,2,True,2024-05-28,1
+827,Mechanical Keyboard,Good quality,4,False,2024-10-06,0
+828,Portable SSD,Happy with purchase,4,False,2024-11-11,0
+829,Phone Charger,Very disappointed,1,True,2025-12-22,1
+830,Laptop Stand,Satisfied overall,3,False,2025-02-12,1
+831,Bluetooth Speaker,Waste of money,1,True,2025-01-06,1
+832,Gaming Mouse,Average experience,3,True,2026-03-15,0
+833,Portable SSD,Works okay,3,True,2024-11-05,1
+834,Bluetooth Speaker,Decent product,3,False,2024-11-10,1
+835,Fitness Band,Excellent product,5,False,2024-05-10,0
+836,Smart Watch,Best purchase ever,5,True,2025-09-27,1
+837,Gaming Mouse,Could be better,2,True,2024-09-02,0
+838,USB Cable,Average product,2,True,2025-09-17,1
+839,Wireless Earbuds,Satisfied overall,3,True,2024-09-12,1
+840,Laptop Stand,Highly recommend,5,True,2026-03-29,0
+841,USB Cable,Worth the price,4,True,2024-10-08,1
+842,Gaming Mouse,Satisfied overall,3,True,2024-08-29,1
+843,Wireless Earbuds,Worth the price,4,True,2026-01-17,0
+844,Smart Watch,Highly recommend,5,True,2024-09-06,1
+845,Mechanical Keyboard,Not as expected,2,True,2024-11-17,0
+846,Mechanical Keyboard,Good quality,4,False,2024-08-04,0
+847,Phone Charger,Excellent product,5,True,2026-03-28,1
+848,Phone Charger,Excellent product,5,True,2025-02-20,0
+849,Smart Watch,Very disappointed,1,False,2025-01-03,1
+850,USB Cable,Amazing quality,5,False,2025-11-20,0
+851,Wireless Earbuds,Best purchase ever,5,True,2025-12-15,1
+852,Portable SSD,Satisfied overall,3,False,2025-10-20,1
+853,Bluetooth Speaker,Works okay,3,True,2024-09-16,0
+854,Phone Charger,Recommended,4,True,2025-04-25,0
+855,Mechanical Keyboard,Decent product,3,True,2024-06-29,0
+856,Fitness Band,Satisfied overall,3,True,2025-03-22,1
+857,Mechanical Keyboard,Amazing quality,5,True,2025-09-30,1
+858,Fitness Band,Poor packaging,2,True,2025-07-18,0
+859,Phone Charger,Works okay,3,False,2025-12-19,1
+860,Mechanical Keyboard,Stopped working quickly,1,False,2024-09-08,1
+861,Phone Charger,Poor packaging,2,True,2024-11-22,1
+862,Bluetooth Speaker,Works okay,3,False,2024-07-16,1
+863,Mechanical Keyboard,Recommended,4,True,2025-11-12,0
+864,Bluetooth Speaker,Happy with purchase,4,False,2025-12-17,1
+865,Phone Charger,Recommended,4,True,2025-09-17,1
+866,Wireless Earbuds,Happy with purchase,4,False,2025-07-26,1
+867,Mechanical Keyboard,Excellent product,5,True,2024-05-26,0
+868,Bluetooth Speaker,Average product,2,False,2025-12-30,1
+869,Bluetooth Speaker,Very disappointed,1,False,2024-05-23,1
+870,Portable SSD,Average experience,3,True,2025-11-13,0
+871,Gaming Mouse,Works okay,3,True,2024-08-25,0
+872,Fitness Band,Good quality,4,True,2024-07-29,0
+873,Laptop Stand,Stopped working quickly,1,True,2026-05-05,0
+874,Wireless Earbuds,Waste of money,1,False,2024-05-19,0
+875,Laptop Stand,Could be better,2,True,2026-02-09,1
+876,Wireless Earbuds,Poor packaging,2,True,2024-10-27,1
+877,Wireless Earbuds,Recommended,4,True,2025-03-11,0
+878,USB Cable,Very disappointed,1,False,2026-01-09,1
+879,Gaming Mouse,Amazing quality,5,True,2024-08-15,1
+880,Smart Watch,Stopped working quickly,1,True,2024-09-16,0
+881,USB Cable,Average product,2,True,2026-03-13,0
+882,Bluetooth Speaker,Terrible quality,1,False,2026-05-01,1
+883,Portable SSD,Average experience,3,False,2024-05-31,0
+884,Fitness Band,Could be better,2,False,2025-11-22,1
+885,Phone Charger,Average product,2,True,2025-08-13,1
+886,Mechanical Keyboard,Decent product,3,True,2025-12-29,0
+887,Fitness Band,Worth the price,4,False,2024-07-30,1
+888,Portable SSD,Not as expected,2,False,2025-02-13,0
+889,Gaming Mouse,Poor packaging,2,True,2024-10-30,1
+890,USB Cable,Amazing quality,5,False,2025-03-22,0
+891,Wireless Earbuds,Satisfied overall,3,False,2026-02-15,0
+892,Laptop Stand,Not as expected,2,False,2024-12-20,1
+893,Phone Charger,Satisfied overall,3,False,2026-04-29,1
+894,Portable SSD,Average experience,3,False,2024-11-05,1
+895,USB Cable,Amazing quality,5,False,2024-09-22,0
+896,Smart Watch,Waste of money,1,False,2026-02-27,1
+897,Portable SSD,Stopped working quickly,1,True,2024-09-15,1
+898,Gaming Mouse,Could be better,2,False,2025-07-24,0
+899,Fitness Band,Terrible quality,1,False,2025-10-30,0
+900,Fitness Band,Could be better,2,False,2025-03-24,0
+901,Bluetooth Speaker,Terrible quality,1,False,2025-09-17,0
+902,Wireless Earbuds,Good quality,4,True,2025-09-26,1
+903,Wireless Earbuds,Good quality,4,True,2026-05-08,0
+904,Smart Watch,Works okay,3,False,2025-07-13,0
+905,Mechanical Keyboard,Could be better,2,False,2024-11-05,1
+906,Gaming Mouse,Could be better,2,True,2026-01-06,0
+907,USB Cable,Amazing quality,5,False,2025-11-11,1
+908,Wireless Earbuds,Satisfied overall,3,True,2024-05-21,0
+909,Mechanical Keyboard,Amazing quality,5,True,2024-06-30,1
+910,Phone Charger,Best purchase ever,5,False,2024-11-17,0
+911,Bluetooth Speaker,Happy with purchase,4,False,2024-07-27,1
+912,Fitness Band,Happy with purchase,4,False,2025-03-27,0
+913,Gaming Mouse,Excellent product,5,False,2024-05-17,0
+914,Portable SSD,Works okay,3,True,2025-06-11,1
+915,USB Cable,Recommended,4,True,2026-01-18,1
+916,Mechanical Keyboard,Highly recommend,5,False,2025-06-29,1
+917,Wireless Earbuds,Stopped working quickly,1,True,2025-08-21,0
+918,Smart Watch,Average experience,3,True,2024-12-10,1
+919,Laptop Stand,Stopped working quickly,1,True,2024-05-22,0
+920,Gaming Mouse,Works okay,3,True,2024-11-01,0
+921,Mechanical Keyboard,Works okay,3,True,2024-08-18,0
+922,Wireless Earbuds,Happy with purchase,4,True,2025-01-28,0
+923,Gaming Mouse,Average product,2,True,2025-11-13,0
+924,Bluetooth Speaker,Could be better,2,True,2024-07-23,1
+925,Smart Watch,Good quality,4,True,2024-11-30,1
+926,Bluetooth Speaker,Worth the price,4,False,2024-07-15,1
+927,Fitness Band,Best purchase ever,5,True,2025-04-10,0
+928,Phone Charger,Average experience,3,True,2025-03-27,0
+929,Fitness Band,Best purchase ever,5,False,2026-01-26,0
+930,Portable SSD,Waste of money,1,False,2025-06-26,1
+931,Bluetooth Speaker,Worth the price,4,False,2024-11-12,1
+932,Wireless Earbuds,Works okay,3,True,2024-07-30,0
+933,Gaming Mouse,Excellent product,5,True,2025-02-11,1
+934,Laptop Stand,Excellent product,5,True,2025-04-04,1
+935,Gaming Mouse,Recommended,4,False,2026-03-05,1
+936,Fitness Band,Not as expected,2,False,2024-05-27,0
+937,Portable SSD,Average product,2,False,2025-03-05,1
+938,USB Cable,Could be better,2,False,2024-07-04,0
+939,Phone Charger,Waste of money,1,False,2025-09-04,1
+940,Mechanical Keyboard,Stopped working quickly,1,False,2025-11-01,1
+941,Bluetooth Speaker,Highly recommend,5,False,2025-01-15,1
+942,USB Cable,Best purchase ever,5,False,2025-10-11,1
+943,Wireless Earbuds,Stopped working quickly,1,True,2024-09-19,0
+944,Bluetooth Speaker,Amazing quality,5,True,2025-12-26,0
+945,Gaming Mouse,Poor packaging,2,False,2025-06-15,1
+946,Wireless Earbuds,Worth the price,4,False,2025-08-06,1
+947,Smart Watch,Terrible quality,1,True,2025-05-20,0
+948,Portable SSD,Average experience,3,False,2025-12-07,1
+949,Gaming Mouse,Highly recommend,5,False,2026-01-21,1
+950,Phone Charger,Amazing quality,5,True,2025-07-15,1
+951,USB Cable,Very disappointed,1,True,2025-01-23,1
+952,Mechanical Keyboard,Highly recommend,5,False,2025-08-26,1
+953,Wireless Earbuds,Recommended,4,False,2024-05-08,0
+954,Wireless Earbuds,Could be better,2,True,2025-08-08,0
+955,Smart Watch,Very disappointed,1,False,2025-12-19,1
+956,Phone Charger,Average product,2,False,2024-12-21,0
+957,Bluetooth Speaker,Decent product,3,True,2025-04-10,1
+958,Wireless Earbuds,Highly recommend,5,False,2024-09-03,0
+959,Portable SSD,Best purchase ever,5,True,2025-09-26,1
+960,Smart Watch,Waste of money,1,True,2025-10-10,0
+961,Smart Watch,Works okay,3,True,2025-10-05,1
+962,Fitness Band,Excellent product,5,True,2025-08-01,1
+963,Fitness Band,Amazing quality,5,True,2024-08-17,0
+964,Fitness Band,Good quality,4,False,2025-05-01,1
+965,Fitness Band,Stopped working quickly,1,False,2025-05-19,0
+966,Fitness Band,Average experience,3,False,2025-05-14,1
+967,Mechanical Keyboard,Excellent product,5,True,2024-09-10,0
+968,Fitness Band,Average experience,3,True,2026-02-14,0
+969,Phone Charger,Terrible quality,1,False,2025-10-12,0
+970,Portable SSD,Satisfied overall,3,False,2024-09-16,1
+971,Smart Watch,Best purchase ever,5,False,2025-09-11,0
+972,Fitness Band,Poor packaging,2,False,2024-06-21,0
+973,Portable SSD,Recommended,4,True,2025-01-30,1
+974,Gaming Mouse,Average product,2,False,2026-05-01,0
+975,Portable SSD,Worth the price,4,True,2026-04-24,0
+976,Portable SSD,Average product,2,False,2025-07-21,0
+977,Gaming Mouse,Decent product,3,True,2026-03-24,1
+978,Portable SSD,Stopped working quickly,1,True,2026-03-06,1
+979,Smart Watch,Recommended,4,False,2025-06-15,0
+980,Smart Watch,Good quality,4,True,2025-07-23,0
+981,Portable SSD,Terrible quality,1,True,2025-08-04,0
+982,Portable SSD,Satisfied overall,3,False,2026-02-10,1
+983,Fitness Band,Not as expected,2,False,2024-09-30,1
+984,Fitness Band,Could be better,2,False,2026-02-11,1
+985,Laptop Stand,Could be better,2,False,2025-04-25,0
+986,Gaming Mouse,Waste of money,1,True,2024-12-27,1
+987,Laptop Stand,Happy with purchase,4,False,2026-02-12,0
+988,Wireless Earbuds,Satisfied overall,3,True,2024-12-03,1
+989,Fitness Band,Poor packaging,2,True,2024-08-14,0
+990,Laptop Stand,Waste of money,1,False,2025-08-26,1
+991,Gaming Mouse,Best purchase ever,5,False,2024-10-12,1
+992,Bluetooth Speaker,Works okay,3,False,2024-05-23,1
+993,Fitness Band,Works okay,3,True,2024-10-21,1
+994,Laptop Stand,Recommended,4,False,2025-12-15,0
+995,Bluetooth Speaker,Average experience,3,True,2024-07-24,1
+996,USB Cable,Very disappointed,1,True,2025-05-08,0
+997,Laptop Stand,Very disappointed,1,True,2024-07-16,0
+998,Mechanical Keyboard,Excellent product,5,True,2025-07-18,1
+999,USB Cable,Waste of money,1,False,2024-12-08,0
+1000,Fitness Band,Average experience,3,False,2024-09-14,1
